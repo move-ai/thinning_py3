@@ -8,4 +8,4 @@ It is also known as skeletonization.
 This package implements the thinning algorithm by Guo and Hall* for Numpy arrays. 
 It is thus compatible with OpenCV. The algorithm is implemented in C and fairly fast.
 
-[*link](http://dx.doi.org/10.1145/62065.62074)
+[link](http://dx.doi.org/10.1145/62065.62074)
