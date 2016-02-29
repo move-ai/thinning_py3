@@ -30,7 +30,7 @@ static PyMethodDef thinningMethods[] = {
 static struct PyModuleDef moduledef = {
         PyModuleDef_HEAD_INIT,
         "thinning",
-        "Thinning of segmented images. See https://bitbucket.org/adrian_n/thinning.",
+        "Thinning of segmented images. See https://github.com/tastyminerals/thinning_py3.git.",
         -1,
         thinningMethods,
         NULL,
