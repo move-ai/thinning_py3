@@ -10,7 +10,7 @@ import numpy
 here = os.path.abspath(os.path.dirname(__file__))
 
 # Get the long description from the relevant file
-with open(os.path.join(here, 'README.txt')) as f:
+with open(os.path.join(here, 'README')) as f:
 	long_description = f.read()
 
 
@@ -19,7 +19,7 @@ setup(
 	version='1.2.3',
 	author = "Adrian Neumann",
 	author_email = "adrian_neumann@gmx.de",
-	url = "https://bitbucket.org/adrian_n/thinning",
+	url = "https://github.com/tastyminerals/thinning_py3.git",
 	description = "C extension for thinning binary images.",
 	ext_modules=[
 		Extension(
