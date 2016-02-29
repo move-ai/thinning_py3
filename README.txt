@@ -10,5 +10,4 @@ It is thus compatible with OpenCV. The algorithm is implemented in C and fairly 
 Reference-style: 
 ![alt text][logo]
 
-[logo]:(http://dx.doi.org/10.1145/62065.62074)
-
+[logo]:http://dx.doi.org/10.1145/62065.62074
