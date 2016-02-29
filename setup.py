@@ -15,7 +15,7 @@ with open(os.path.join(here, 'README')) as f:
 
 
 setup(
-	name='thinning',
+	name='thinning_py3',
 	version='1.2.3',
 	author = "Adrian Neumann",
 	author_email = "adrian_neumann@gmx.de",
