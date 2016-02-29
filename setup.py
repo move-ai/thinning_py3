@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os.path
 import setuptools
 from setuptools import setup, Extension
@@ -30,9 +32,7 @@ setup(
 		)
 	],
 	classifiers=[
-		"Programming Language :: Python",
-		"Programming Language :: Python :: 3", #I think
-		"Programming Language :: Python :: 2",
+		"Programming Language :: Python :: 3 :: Only",
 		"Programming Language :: C",
 		"License :: OSI Approved :: BSD License",
 		"Topic :: Scientific/Engineering :: Image Recognition",
